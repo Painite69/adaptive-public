@@ -1,6 +1,6 @@
 # Adaptive Planner Web, Mobile & Desk App 🌵
 
-Hi-Yume is a game studio created by 4 siblings, their main goal is to make games that are fun and provide humanitarian showcase and aid to those in need.
+Adaptive is an app that makes productivity seemless, you set your goals, events and tasks in your timeline and with a press of a button you adapt your timeline to fit your schedule while keeping your high priority tasks maintained.
 
 ## 🚀 Tech Stack
 - **Frontend:** I'm creating this app using Next.Js, React, Typescript and Turbopack.
